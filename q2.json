@@ -1,0 +1,355 @@
+{
+    "introduction":"Guess The Real Name", 
+    "questions":[
+   {
+   "question": "Jeetendra",
+   "answers": [
+      "Ravi Kapoor",
+      "Tushar Tandon",
+      "Jeet Singh",
+      "Jeetu"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Rajesh Khanna",
+   "answers": [
+      "Rajesh Khanna",
+      "Jatin Khanna",
+      "Rajesh Kapadiya",
+      "Rajesh Kapoor"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Sanjeev Kumar",
+   "answers": [
+      "Sanjeev Singh",
+      "Anwar Ali",
+      "Harihar Jethalal Jariwala",
+      "Haribhai Chunawala"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Dilip Kumar",
+   "answers": [
+      "Hamid Ali Khan ",
+      "Dilip Singh Rathod",
+      "Mohsin Khan",
+      "Yousuf Khan"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Ajit (The Lion)",
+   "answers": [
+      "Hamid Ali Khan ",
+      "Ajit Wachhani",
+      "Monsoor Ali",
+      "Kanhaiya Lal"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Dharmendra",
+   "answers": [
+      "Dharam Kumar",
+      "Dharam Singh Deol",
+      "Dharam Kapoor",
+      "Dharma Rathod"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Rekha",
+   "answers": [
+      "Rekha Venkatesh",
+      "Shree Amma Yanger Ayyapan ",
+      "Bhanurekha Ganesan",
+      "Devsena Ganeshan"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Akshay Kumar",
+   "answers": [
+      "Akshay Singh Rathod",
+      "Akshay Kapoor",
+      "Vijay Khurana",
+      "Rajiv Hari Om Bhatia "
+   ],
+   "correct": 3
+},
+ {
+   "question": "Ranveer Singh",
+   "answers": [
+      "Ranveer Singh Bhavnani ",
+      "Ranveer Singh Gujjar",
+      "Ranveer Vachhani",
+      "Randeep Singh"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Sridevi",
+   "answers": [
+      "Bhanurekha Ganesan",
+      "Shree Amma Yanger Ayyapan ",
+      "Sridevi Venkatesh",
+      "Ramya Krishnan"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Mithun Chakraborty ",
+   "answers": [
+      "Dev Burman",
+      "Ranjit Chakraborty",
+      "Gouranga Chakraborty ",
+      "Babul Chakraborty"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Johny Walker",
+   "answers": [
+      "Johny Lever",
+      "John D'Souza",
+      "Akbar Khan",
+      "Badruddin Jamaluddin Kazi "
+   ],
+   "correct": 3
+},
+ {
+   "question": "Rajkumar",
+   "answers": [
+      "Kulbushan Pandit ",
+      "Raj Kumar Malhotra",
+      "Ram Kumar Upadhyay",
+      "Balraj Mehra"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Sunit Dutt",
+   "answers": [
+      "Om Dutt",
+      "Balraj Dutt",
+      "Kulbushan Dutt",
+      "Ajay Dutt"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Meena Kumari",
+   "answers": [
+      "Meena Kumari Jhujhunwala",
+      "Mumtaaz Bano",
+      "Mahjabeen Bano ",
+      "Meenakhsi Vardhan"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Manoj Kumar",
+   "answers": [
+      "Manoj Goswami",
+      "Manoj Upadhyay",
+      "Harihar Jethalal Jariwala",
+      "Harikrishna Giri Goswami "
+   ],
+   "correct": 3
+},
+ {
+   "question": "Anu Malik",
+   "answers": [
+      "Anwar Sardaar Malik ",
+      "Anwar Ali",
+      "Anu Sardaar Malik",
+      "Anand Malik"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Raj Kapoor",
+   "answers": [
+      "Prithviraj Kapoor",
+      "Ranbir Raj Prithviraj Kapoor ",
+      "Rajesh Kapoor",
+      "Rajinder Kapoor"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Mukesh (Singer)",
+   "answers": [
+      "Neil Mukesh",
+      "Mukesh Kapoor",
+      "Mukesh Chand Mathur",
+      "Nitin Mukesh"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Nutan",
+   "answers": [
+      "Nutan Bahl",
+      "Nutan Mukherjee",
+      "Nutan Verma",
+      "Nutan Singh"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Sadhana",
+   "answers": [
+      "Sadhana Shivdasani",
+      "Sadhana Roy",
+      "Sadhana Mehra",
+      "Sadhana Gowswami"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Tanuja",
+   "answers": [
+      "Tanuja Roy",
+      "Tanuja Singh",
+      "Tanuja Mukherjee ",
+      "Tanuja Mehra"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Kishore Kumar",
+   "answers": [
+      "Kishore Chatterjee",
+      "Kishore Mukherjee",
+      "Kishore Ganguly",
+      "Abhas Kumar Ganguly "
+   ],
+   "correct": 3
+},
+ {
+   "question": "Madhubala",
+   "answers": [
+      "Begum Bano Dehlavi ",
+      "Begum Mumtaz Jehan Dehlavi ",
+      "Mumtaz Bano",
+      "Madhu Kumari"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Kumar Sanu",
+   "answers": [
+      "Sanu Kumar Ganguly",
+      "Kedarnath Bhattacharya ",
+      "Sanu Mukherjee",
+      "Kumar Banerjee"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Anuradha Paudwal",
+   "answers": [
+      "Radha Paudwal",
+      "Radha Kumari",
+      "Alka Nadakarni ",
+      "Anuradha Mehra"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Ashok Kumar",
+   "answers": [
+      "Ashok Kumar Ganguly",
+      "Ashok Kumar Das",
+      "Ashok Dada",
+      "Ashok Da"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Sunny Leone",
+   "answers": [
+      "Sunny Kaur",
+      "Karenjit Kaur Vohra ",
+      "Manjit Kaur",
+      "Karanjit Singh"
+   ],
+   "correct": 1
+},
+ {
+   "question": "KK (Singer)",
+   "answers": [
+      "Kaushal Kumar",
+      "Kishan Kumar",
+      "Krishnakumar Kunnath",
+      "Kamal Kishan"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Shaan",
+   "answers": [
+      "Shantanu Mukherjee",
+      "Shantanu Roy",
+      "Shantanu Bhattacharya",
+      "Shantanu Ganguly"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Gulzar",
+   "answers": [
+      "Manjeet Singh",
+      "Madhav Singh Rajput",
+      "Madhusudan Vajpayee",
+      "Sampooran Singh Kalra "
+   ],
+   "correct": 3
+},
+ {
+   "question": "A. R. Rahman",
+   "answers": [
+      "Alla Rakha Rahman",
+      "Anwar Rahim Rahman",
+      "Anjaan R. Rehman",
+      "Dileep"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Jagjit Singh",
+   "answers": [
+      "Jagjit Kumar Singh",
+      "Jagmohan Singh ",
+      "Jagat Narayan Singh",
+      "Jagat Singh"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Jayant (Actor)",
+   "answers": [
+      "Jayant Patil",
+      "Jalal Mehmood",
+      "Zakaria Khan ",
+      "Jayant Sinha"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Mehmood",
+   "answers": [
+      "Mehmood Ali",
+      "Md. Mehmood",
+      "Mehmood Rehman",
+      "Mehmood Baig"
+   ],
+   "correct": 0
+}
+]
+}

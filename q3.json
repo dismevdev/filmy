@@ -1,0 +1,615 @@
+{
+    "introduction":"Guess The First Movie", 
+    "questions":[
+ {
+   "question": "Aamir Khan",
+   "answers": [
+      "Holi",
+      "Qayamat Se Qayamat Tak",
+      "Rakh",
+      "Dil"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Abhishek Bachchan",
+   "answers": [
+      "Bas Itna Saa Khwaab Hai",
+      "Refugee",
+      "Dhai Akshar Prem Ke",
+      "Zameen"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Ajay Devgan",
+   "answers": [
+      "Hum Dil De Chuke Sanam",
+      "Zakhm",
+      "Phool Aur Kaante",
+      "Suhaag"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Akshaye Khanna",
+   "answers": [
+      "Doli Saja Ke Rakhna",
+      "Aa Ab Laut Chalein",
+      "Border",
+      "Himalaya Putra"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Akshay Kumar",
+   "answers": [
+      "Saugandh",
+      "Dance Dance",
+      "Mujhe Meri Biwi Se Bachao",
+      "Lahoo Ke Do Rang"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Amitabh Bachchan",
+   "answers": [
+      "Zanjeer",
+      "Saat Hindustani",
+      "Namak Haram",
+      "Anand"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Anil Kapoor",
+   "answers": [
+      "Woh Saat Din",
+      "Saaheb",
+      "Hamare Tumhare",
+      "Ghar Ho To Aisa"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Arjun Rampal",
+   "answers": [
+      "Deewanapan",
+      "Aankhein",
+      "Rajneeti",
+      "Pyaar Ishq Aur Mohabbat"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Bobby Deol",
+   "answers": [
+      "Barsaat",
+      "Soldier",
+      "Kareeb",
+      "Baadal"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Dharmendra",
+   "answers": [
+      "Satyakam",
+      "Dil Bhi Tera Hum Bhi",
+      "Chupke Chupke",
+      "Bandini"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Dino Morea",
+   "answers": [
+      "Raaz",
+      "Aap Ki Khatir",
+      "Pyaar Mein Kabhi Kabhi",
+      "Gunaah"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Emran Hashmi",
+   "answers": [
+      "Killer",
+      "Murder",
+      "Chocolate",
+      "Footpath"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Fardeen Khan",
+   "answers": [
+      "Prem Aggan",
+      "No Entry",
+      "Yalgaar",
+      "Hum Ho Gaye Aapke"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Govinda",
+   "answers": [
+      "Jeete Hain Shaan Se",
+      "Ilzaam",
+      "Hatya",
+      "Taqatwar"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Hrithik Roshan",
+   "answers": [
+      "Aap Mujhe Achhe Lagne Lage",
+      "Fiza",
+      "Kaho Naa… Pyaar Hai",
+      "Kabhi Khushi Kabhi Gam"
+   ],
+   "correct": 2
+},
+ {
+   "question": "John Abraham",
+   "answers": [
+      "Garam Masala",
+      "Force",
+      "Baaz",
+      "Jism"
+   ],
+   "correct": 3
+},
+ {
+   "question": "R Madhavan",
+   "answers": [
+      "Rehna Hai Tere Dil Mein",
+      "Ramji Londonwaley",
+      "Dil Vil Pyar Vyar",
+      "Guru"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Nana Patekar",
+   "answers": [
+      "Prahaar",
+      "Gaman",
+      "Aaj Ki Awaaz",
+      "Ankush"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Ranbir Kapoor",
+   "answers": [
+      "Rocket Singh",
+      "Barfi",
+      "Saawariya",
+      "Bachna Aye Hasino"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Saif Ali Khan",
+   "answers": [
+      "Aashiq Awara",
+      "Ye Dillagi",
+      "Chhote Nawab",
+      "Parampara"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Salman Khan",
+   "answers": [
+      "Biwi Ho To Aisi",
+      "Baaghi",
+      "Maine Pyar Kiya",
+      "Bandhan"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Sanjay Dutt",
+   "answers": [
+      "Sadak",
+      "Rocky",
+      "Naam",
+      "Thanedaar"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Shahid Kapoor",
+   "answers": [
+      "Dil Maange More",
+      "Fida",
+      "Ishq Vishk",
+      "Vaah Life Ho To Aisi"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Shahrukh khan",
+   "answers": [
+      "Dil Aashna Hai",
+      "Darr",
+      "Baazigar",
+      "Deewana"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Sunil Shetty",
+   "answers": [
+      "Balwaan",
+      "Bhai",
+      "Border",
+      "Dilwale"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Sunny Deol",
+   "answers": [
+      "Yateem",
+      "Betaab",
+      "Ram Avtaar",
+      "Sohni Mahiwal"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Vivek Oberoi",
+   "answers": [
+      "Naksha",
+      "Kaal",
+      "Company",
+      "Dum"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Katrina Kaif",
+   "answers": [
+      "Boom",
+      "Namaste London",
+      "Yuvraaj",
+      "Maine Pyaar Kyun Kiya?"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Deepika Padukone",
+   "answers": [
+      "Bachna Ae Haseeno",
+      "Om Shanti Om",
+      "Chandni Chowk to China",
+      "Lafangey Parindey"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Kareena Kapoor",
+   "answers": [
+      "Main Prem Ki Deewani Hoon",
+      "Kabhi Khushi Kabhi Gam",
+      "Refugee",
+      "Mujhe Kuchh Kehna Hai"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Priyanka Chopra",
+   "answers": [
+      "Andaaz ",
+      "Fashion",
+      "Anjana Anjani",
+      "The Hero"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Aishwarya Rai",
+   "answers": [
+      "Aur Pyaar Ho Gaya",
+      "Hum Dil De Chuke Sanam",
+      "Devdaas",
+      "Mohabbatein"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Vidya Balan",
+   "answers": [
+      "Lage Raho Munna Bhai",
+      "Parineeta",
+      "Salaam-e-Ishq",
+      "Eklavya"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Kajol",
+   "answers": [
+      "Baazigar",
+      "DDLJ",
+      "Bekhudi",
+      "Ye Dillagi"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Sridevi",
+   "answers": [
+      "Sadma",
+      "Mr. India",
+      "Judai",
+      "Julie"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Madhuri Dixit",
+   "answers": [
+      "Abodh",
+      "Tezaab",
+      "Beta",
+      "Parinda"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Rekha",
+   "answers": [
+      "Khubsoorat",
+      "Sawan Bhadon",
+      "Haseenon Ka Devata",
+      "Elaan"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Nargis",
+   "answers": [
+      "Shree 420",
+      "Mother India",
+      "Talashe Haq",
+      "Raat Aur Din"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Meena Kumari",
+   "answers": [
+      "Sahib Bibi Aur ",
+      "Ghulam",
+      "Pakeezah",
+      "Leatherface"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Rani Mukherjee",
+   "answers": [
+      "Raja Ki Aayegi Baraat",
+      "Yuva",
+      "Kuch Kuch Hota Hai",
+      "Saathiya"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Kangana Ranaut",
+   "answers": [
+      "Woh Lamhe",
+      "Gangster",
+      "Once Upon A Time in Mumbai",
+      "Queen"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Amisha patel",
+   "answers": [
+      "Gadar",
+      "Thoda Pyar Thoda Magic",
+      "Kaho Naa… Pyaar Hai",
+      "Race 2"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Amrita Rao",
+   "answers": [
+      "Ishq Vishq",
+      "Vivah",
+      "Deewar",
+      "Ab Ke Baras"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Bipasha Basu",
+   "answers": [
+      "Ajnabee",
+      "Jism",
+      "Raaz",
+      "Footpath"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Diya Mirza",
+   "answers": [
+      "Rehna Hai Tere Dil Mein",
+      "Deewaanapan ",
+      "Dus",
+      "Dus Kahaniyan"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Gracy Singh",
+   "answers": [
+      "Munna Bhai MBBS",
+      "Lagaan",
+      "Hu Tu Tu",
+      "Armaan"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Karishma Kapoor",
+   "answers": [
+      "Police Officer",
+      "Jaagruti",
+      "\tSapne Sajan Ke",
+      "Prem Qaidi"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Lara Dutta",
+   "answers": [
+      "Andaaz ",
+      "No Entry",
+      "Mumbai Se Aaya Mera Dost",
+      "Masti"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Mallika Sherawat",
+   "answers": [
+      "Kis Kis Ki Kismat",
+      "Khwahish",
+      "Murder",
+      "Bachke Rehna Re Baba"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Manisha Koirala",
+   "answers": [
+      "1942 A Love Story",
+      "Bombay",
+      "Saudagar",
+      "Dil Se"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Preity Zinta",
+   "answers": [
+      "Soldier",
+      "Kya Kehna",
+      "Chori Chori Chupke Chupke",
+      "Dil Se"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Raveena Tandon",
+   "answers": [
+      "Patthar Ke Phool",
+      "Mohra",
+      "Parampara",
+      "Dilwale"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Shilpa Shetty",
+   "answers": [
+      "Aag",
+      "Baazigar",
+      "Main Khiladi Tu Anari",
+      "Aao Pyaar Karen"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Sonali Bendre",
+   "answers": [
+      "Sarfarosh",
+      "Takkar",
+      "Aag",
+      "Naaraaz"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Sonam Kapoor",
+   "answers": [
+      "I Hate Luv Storys",
+      "Aisha",
+      "Delhi-6",
+      "Saawariya"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Sushmita Sen",
+   "answers": [
+      "Zor",
+      "Dastak",
+      "Sirf Tum",
+      "Biwi No. 1"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Arjun Kapoor",
+   "answers": [
+      "Finding Fanny",
+      "Gunday",
+      "Ishaqzaade",
+      "Aurangzeb"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Abhay Deol",
+   "answers": [
+      "Oye Lucky! Lucky Oye!",
+      "Manorama Six Feet Under",
+      "Dev.D",
+      "Socha Na Tha"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Arshad Warsi",
+   "answers": [
+      "Tere Mere Sapne",
+      "Betaabi",
+      "Mere Do Anmol Ratan",
+      "Hero Hindustani"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Ayushman Khurana",
+   "answers": [
+      "Nautanki Saala",
+      "Vicky Donor",
+      "Bewakoofiyaan",
+      "Hawaizaada"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Imran Khan",
+   "answers": [
+      "I Hate Luv Storys",
+      "Delhi Belly",
+      "Mere Brother Ki Dulhan",
+      "Jaane Tu... Ya Jaane Na"
+   ],
+   "correct": 3
+}
+]
+}

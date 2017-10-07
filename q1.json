@@ -1,0 +1,434 @@
+{
+    "introduction":"Andaar Apna Apna", 
+    "questions":[
+ {
+   "question": "What was name of Aamir khan in Andaar Apna Apna?",
+   "answers": [
+      "Prem",
+      "Amar",
+      "Rahul",
+      "Raj"
+   ],
+   "correct": 1
+},
+ {
+   "question": "How much money did Salman's father owe to lalaji?",
+   "answers": [
+      "300",
+      "1000",
+      "500",
+      "2000"
+   ],
+   "correct": 2
+},
+ {
+   "question": "What was the business of Aamir's father?",
+   "answers": [
+      "Salon",
+      "Cosmetics",
+      "Grocery",
+      "Drama"
+   ],
+   "correct": 0
+},
+ {
+   "question": "What was real name of Teja?",
+   "answers": [
+      "Shyam Gopal Bajaj",
+      "Ram Lal Bajaj",
+      "Raavan",
+      "Tejinder"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Fill in the blank, Do ___ chale zindagi banane",
+   "answers": [
+      "Deewane",
+      "Dil",
+      "Ajnabi",
+      "Mastaane"
+   ],
+   "correct": 3
+},
+ {
+   "question": "What did Aamir khan exchange while talking to a factory worker in a restaurant?",
+   "answers": [
+      "Cash",
+      "Bidi",
+      "Shoes",
+      "Bags"
+   ],
+   "correct": 1
+},
+ {
+   "question": "What was the amount Amar Prem gave to Teja?",
+   "answers": [
+      "15000",
+      "5540.44",
+      "8535.29",
+      "11400"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Which team did Aamir khan say he played for as a football player? ",
+   "answers": [
+      "East Bengal",
+      "Mohan Bagan",
+      "FC Goa",
+      "Bangalore FC "
+   ],
+   "correct": 1
+},
+ {
+   "question": "How many goals did Aamir khan say he scored in a match?",
+   "answers": [
+      "4",
+      "5",
+      "7",
+      "6"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Which hero makes Aamir khan jealous because of acting in many moives with Juhi?",
+   "answers": [
+      "Shahrukh Khan",
+      "Govinda",
+      "Sunny Deol",
+      "Salman Khan"
+   ],
+   "correct": 2
+},{
+   "question": "What does Aamir Khan as old horse cart driver call Raveena Tandon?",
+   "answers": [
+      "Lalli",
+      "Munni",
+      "Bitiya",
+      "Begum"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of Andaz Apna Apna?",
+   "answers": [
+      "David Dhawan",
+      "Rahul Rawail",
+      "Rajkumar Santoshi",
+      "Subhash Ghai"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the music director of Andaz Apna Apna?",
+   "answers": [
+      "Tushar Bhatia",
+      "R D Burman",
+      "Bappi Lahiri",
+      "Anu Malik"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Which year was this movie released?",
+   "answers": [
+      "1992",
+      "1996",
+      "1995",
+      "1994"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who was the manager before Bhalla becomes manager for Raveena?",
+   "answers": [
+      "Shantilal",
+      "Mehta",
+      "Mehra",
+      "D'Souza"
+   ],
+   "correct": 3
+},
+ {
+   "question": "What was the name of villa where Raveena was staying?",
+   "answers": [
+      "Rose Villa ",
+      "Shanti Villa",
+      "Star Villa",
+      "Grace Villa"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Whose gun did Teja and gang use for an attempt to kill Raveena?",
+   "answers": [
+      "Vasco da gama",
+      "Bhalla ka mama",
+      "Robert",
+      "Bhalla"
+   ],
+   "correct": 0
+},
+ {
+   "question": "As per Bhalla's idea from which hill real Manager of Raveena was to be thrown?",
+   "answers": [
+      "Kali Pahadi",
+      "Junagadh Ki Pahadi",
+      "Mount Everest",
+      "Uncha Teela"
+   ],
+   "correct": 1
+},
+ {
+   "question": "What was the first name of Bhalla?",
+   "answers": [
+      "Pratap",
+      "Ramesh",
+      "Suresh",
+      "Vinod"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Where was Bajaj staying?",
+   "answers": [
+      "New York",
+      "Hongkong",
+      "London",
+      "Germany"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Which poison did Bhalla bring to kill Raveena?",
+   "answers": [
+      "Snake Poison",
+      "Scorpion Poison",
+      "Cyanide Posion",
+      "Sleeping Pill"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Whose injection did Salman try to give to Aamir before they drink sharbat?",
+   "answers": [
+      "Horse(Ghoda)",
+      "Buffalo(Bhains)",
+      "Bull (Saand)",
+      "Elephant (Haathi0"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Which sharbat did Bhalla and Robert offer on the eve of Robert's Bday?",
+   "answers": [
+      "Sharbat-e-Ishq",
+      "Sharbat-e-Khaas",
+      "Sharbat-e-Jannat",
+      "Sharbat-e-Robert"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who was the last person to drink Sharbat?",
+   "answers": [
+      "Raveena",
+      "Robert",
+      "Karishma",
+      "Bhalla"
+   ],
+   "correct": 3
+},
+ {
+   "question": "At what time Bajaj used to get up?",
+   "answers": [
+      "6",
+      "5",
+      "7",
+      "6 30"
+   ],
+   "correct": 0
+},
+ {
+   "question": "What was the name of Bajaj's Munim, who was killed by Teja?",
+   "answers": [
+      "Banwari",
+      "Harishankar",
+      "Lakhanlal",
+      "Ramlal"
+   ],
+   "correct": 1
+},
+ {
+   "question": "How many years did Teja spend in jail?",
+   "answers": [
+      "14",
+      "15",
+      "10",
+      "7"
+   ],
+   "correct": 2
+},
+ {
+   "question": "What was the total worth of Bajaj's property?",
+   "answers": [
+      "10 Crore",
+      "20 Crore",
+      "30 Crore",
+      "40 Crore"
+   ],
+   "correct": 2
+},
+ {
+   "question": "What was the amount of Ghapla done by Teja with Mogambo?",
+   "answers": [
+      "2 lakh",
+      "10 lakh",
+      "7 lakh",
+      "5 lakh"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Where was the Mela organized?",
+   "answers": [
+      "Mayawi Teela",
+      "Vrindavan Garden",
+      "Madhuban Garden",
+      "Madhuban Teela"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Amar Prem were late for the meeting with Bajaj by?",
+   "answers": [
+      "5 minutes",
+      "10 minutes",
+      "7 minutes",
+      "3 minutes"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who played the role of Salman's father?",
+   "answers": [
+      "Jagdeep",
+      "Mehmood",
+      "Deven Verma",
+      "Harish Patel"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who was the third person who came to marry Raveena?",
+   "answers": [
+      "Majnu Hatela",
+      "Anand Akela",
+      "Taimur Damru",
+      "Robert"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who played the role of police inspector?",
+   "answers": [
+      "Shehzad Khan",
+      "Viju Khote",
+      "Tiku Talsania",
+      "Harish Patel"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Which profession does Aamir suggest to his father?",
+   "answers": [
+      "Salon",
+      "School",
+      "Travels",
+      "Bangles Shop"
+   ],
+   "correct": 3
+},
+ {
+   "question": "What was the name of staff working in Salon?",
+   "answers": [
+      "Babulal",
+      "Madan",
+      "Ravi",
+      "Ahmad"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Where was Ganga Mandir situated where the ransom was collected?",
+   "answers": [
+      "Nili Jheel",
+      "Purani Tekri",
+      "Jhakadkatti",
+      "Bada Bazaar"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Fill in the blanks, ___ murgiyan paalunga, jo ____ ande dengi",
+   "answers": [
+      "Saikdon, Hazaaron",
+      "Bahut Saari, Bahut Saare",
+      "Hazaaron, Laakhon",
+      "Hazaron, Hazaron"
+   ],
+   "correct": 2
+},
+ {
+   "question": "From which hotel's salon did Aamir got his haircut?",
+   "answers": [
+      "Grand Hotel",
+      "Sitara Hotel",
+      "New Mahal Hotel",
+      "Taj Hotel"
+   ],
+   "correct": 3
+},
+ {
+   "question": "What was the name of company Aamir tells he owns when they were in bus?",
+   "answers": [
+      "Mehta & company",
+      "Five star industries",
+      "Rai & Company",
+      "Bhopali Traders"
+   ],
+   "correct": 0
+},
+ {
+   "question": "What was the name of company Salman tells he owns when they were in bus?",
+   "answers": [
+      "Rai & Sons",
+      "Five star industries",
+      "Chaudhri & sons",
+      "Bhopali Traders"
+   ],
+   "correct": 2
+},
+ {
+   "question": "As per Salman where did he buy his cap from?",
+   "answers": [
+      "France",
+      "Switzerland",
+      "Italy",
+      "America"
+   ],
+   "correct": 1
+},
+ {
+   "question": "As per Aamir where did he buy his red jacket from?",
+   "answers": [
+      "France",
+      "Italy",
+      "Switzerland",
+      "New York"
+   ],
+   "correct": 3
+}
+]
+}
