@@ -1,0 +1,305 @@
+{
+    "introduction":"Jaane Bhi Do Yaaro Quiz", 
+    "questions":[
+ {
+   "question": "What is the name of character played by Om Puri?",
+   "answers": [
+      "Ahuja",
+      "Tarneja",
+      "Ashok",
+      "Vinod"
+   ],
+   "correct": 0
+},
+ {
+   "question": "What is the name of character played by Pankaj Kapoor?",
+   "answers": [
+      "Ahuja",
+      "Tarneja",
+      "Sudhir",
+      "Vinod"
+   ],
+   "correct": 1
+},
+ {
+   "question": "How much did Vinod and Sudhir borrow from Kundan Shah for inauguration?",
+   "answers": [
+      "10000",
+      "5000",
+      "2500",
+      "1000"
+   ],
+   "correct": 2
+},
+ {
+   "question": "What was the name of Vinod/Sudhir's photo studio?",
+   "answers": [
+      "Welcome",
+      "Best",
+      "Wah Wah",
+      "Beauty"
+   ],
+   "correct": 3
+},
+ {
+   "question": "What was the name of Shobha's magazine?",
+   "answers": [
+      "Khabardaar",
+      "Masaledaar",
+      "Vidroh",
+      "Khalbali"
+   ],
+   "correct": 0
+},
+ {
+   "question": "What was the name of Khabardaar magazine's assistant editor?",
+   "answers": [
+      "Mehta",
+      "Kaamdaar",
+      "Mishra",
+      "Rajesh"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Which countries cake was brought for commissioner's birthday? ",
+   "answers": [
+      "Germany",
+      "England",
+      "Switzerland",
+      "USA"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Which of these names was not used in any dialogue of the movie?",
+   "answers": [
+      "Sudhir Mishra",
+      "Vinod Chopra",
+      "Kundan Shah",
+      "Aziz Mirza"
+   ],
+   "correct": 3
+},
+ {
+   "question": "What was the code word for secret call Vinod makes to Ashok?",
+   "answers": [
+      "Albert Pinto",
+      "Robert",
+      "Don Calling",
+      "Billu Bhai"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who becomes commissioner after the death of Dmelo?",
+   "answers": [
+      "Kaamdaar",
+      "Shrivastav",
+      "Ashok",
+      "Mishra"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Fill in the blank, 'Unke aakhri shabd the____'",
+   "answers": [
+      "Hai Daiya",
+      "Utter",
+      "Gutter",
+      "Shutter"
+   ],
+   "correct": 2
+},
+ {
+   "question": "How much did Hawaldaar take from Sudhir?",
+   "answers": [
+      "2 rupees",
+      "10 paise",
+      "25 paise",
+      "50 paise"
+   ],
+   "correct": 3
+},
+ {
+   "question": "From which station did Sudhir/Vinod take train from in the night?",
+   "answers": [
+      "Marine Lines",
+      "Bandra",
+      "Borivali",
+      "Nakpara"
+   ],
+   "correct": 0
+},
+ {
+   "question": "How did Ashok plan to kill Shobha, Vinod and Sudhir on dinner?",
+   "answers": [
+      "Poison",
+      "Time Bomb",
+      "Pistol",
+      "Accident"
+   ],
+   "correct": 1
+},
+ {
+   "question": "What was the approximate cost of Dmelo bridge construction?",
+   "answers": [
+      "50 Crore",
+      "28 Crore",
+      "13 Crore",
+      "18 Crore"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Where did Ahuja keep the dead body of Dmelo?",
+   "answers": [
+      "Bunglow",
+      "Dmelo Bridge",
+      "Kabristan",
+      "Guest House"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Fill in the blanks, 'Dhanush tod diya,____ rupaye ka nuksaan kar diya'",
+   "answers": [
+      "Teen",
+      "5",
+      "40",
+      "8"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who replaces Bheem in Drama?",
+   "answers": [
+      "Tarneja",
+      "Ahuja",
+      "Sudhir",
+      "Vinod"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who replaces Duryodhan in Drama?",
+   "answers": [
+      "Tarneja",
+      "Ahuja",
+      "Vinod",
+      "Sudhir"
+   ],
+   "correct": 2
+},
+ {
+   "question": "What role did Tarneja play in Drama?",
+   "answers": [
+      "Bheem",
+      "Duryodhan",
+      "Akbar",
+      "Drupad"
+   ],
+   "correct": 3
+},
+ {
+   "question": "What role did Ashok play in Drama?",
+   "answers": [
+      "Salim",
+      "Duryodhan",
+      "Akbar",
+      "Drupad"
+   ],
+   "correct": 0
+},
+ {
+   "question": "What was the name of photo studio opened by Ashok?",
+   "answers": [
+      "Beautiful",
+      "Super",
+      "Wah Wah",
+      "Gajab"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who played the character of Shobha?",
+   "answers": [
+      "Farah",
+      "Vibha Narayan",
+      "Bhakti Barve",
+      "Radha Sen"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Which famous director/producer of today played a cameo in JBDY?",
+   "answers": [
+      "Sudhir Mishra",
+      "Kundan Shah",
+      "Rajkumar Hirani",
+      "Vidhu Vinod Chopra"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who wrote the story of JBDY?",
+   "answers": [
+      "Kundan Shah",
+      "Sudhir Mishra",
+      "Bhakti Barve",
+      "Prasun Joshi"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who wrote dialogues of JBDY along with Ranjit Kapoor?",
+   "answers": [
+      "Kundan Shah",
+      "Satish Kaushik",
+      "Prasun Joshi",
+      "Mahesh Bhatt"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who produced JBDY?",
+   "answers": [
+      "Kundan Shah",
+      "Vidhu Vinod Chopra",
+      "NFDC",
+      "HSBC"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who said, 'Municipality hamara baap ka hai'?",
+   "answers": [
+      "Ahuja",
+      "Tarneja",
+      "Srivastav",
+      "Dmelo"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Which kabristaan did Ashok suggest for construction?",
+   "answers": [
+      "Bandra",
+      "Borivali",
+      "Kanpur",
+      "Juhu"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Which attire did Sudhir and Vinod have to spoil the meeting of Tarneja and Ahuja? ",
+   "answers": [
+      "Police",
+      "Postman",
+      "Traffic Police",
+      "Priest"
+   ],
+   "correct": 1
+}
+]
+}

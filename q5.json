@@ -1,0 +1,1575 @@
+{
+    "introduction":"Match Actor With Movie", 
+    "questions":[
+ {
+   "question": "Who was a part of HASEE TOH PHASEE?",
+   "answers": [
+      "Aariyan Gupta",
+      "R Madhavan",
+      "Rahul Roy",
+      "Ravi Kishan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of DEDH ISHQUIYA?",
+   "answers": [
+      "R Madhavan",
+      "Naseeruddin Shah",
+      "Rahul Roy",
+      "Aariyan Gupta"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of LISTEN AMAYA?",
+   "answers": [
+      "Ravi Kishan",
+      "R Madhavan",
+      "Naseeruddin Shah",
+      "Farooq Shaikh"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of PHATA POSTER NIKHLA HERO?",
+   "answers": [
+      "Shahid Kapoor",
+      "Ravi Kishan",
+      "R Madhavan",
+      "Farooq Shaikh"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of SPECIAL 26?",
+   "answers": [
+      "Aariyan Gupta",
+      "R Madhavan",
+      "Akshay Kumar",
+      "Shahid Kapoor"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of CHENNAI EXPRESS?",
+   "answers": [
+      "Aariyan Gupta",
+      "Ravi Kishan",
+      "Akshay Kumar",
+      "Deepika Padukone"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of YEH JAWANI HAI DEEWANI?",
+   "answers": [
+      "Deepika Padukone",
+      "Naseeruddin Shah",
+      "Ravi Kishan",
+      "Akshay Kumar"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of JOLLY LLB?",
+   "answers": [
+      "Naseeruddin Shah",
+      "Arshad Warsi",
+      "Ravi Kishan",
+      "Deepika Padukone"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of D-DAY?",
+   "answers": [
+      "Farooq Shaikh",
+      "Aariyan Gupta",
+      "Arshad Warsi",
+      "Irrfan Khan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of SHUDDH DESI ROMANCE?",
+   "answers": [
+      "Farooq Shaikh",
+      "Sushant Singh Rajput",
+      "Aariyan Gupta",
+      "Irrfan Khan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of NAUTANKI SAALA?",
+   "answers": [
+      "Ayushmann Khurrana",
+      "Shahid Kapoor",
+      "Aariyan Gupta",
+      "Sushant Singh Rajput"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of YAARIYAN?",
+   "answers": [
+      "Shahid Kapoor",
+      "Himansh Kohli",
+      "Naseeruddin Shah",
+      "Ayushmann Khurrana"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of YAMLA PAGLA DEEWANA?",
+   "answers": [
+      "Akshay Kumar",
+      "Naseeruddin Shah",
+      "Nafisa Ali",
+      "Himansh Kohli"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of AASHIQUI 2?",
+   "answers": [
+      "Aditya Roy Kapoor",
+      "Akshay Kumar",
+      "Naseeruddin Shah",
+      "Nafisa Ali"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of BOL BACHCHAN?",
+   "answers": [
+      "Deepika Padukone",
+      "Ajay Devgn",
+      "Farooq Shaikh",
+      "Aditya Roy Kapoor"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of EK DEEWANA THA?",
+   "answers": [
+      "Prateik",
+      "Deepika Padukone",
+      "Farooq Shaikh",
+      "Ajay Devgn"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of EK MAIN AUR EKK TU?",
+   "answers": [
+      "Deepika Padukone",
+      "Kareena Kapoor Khan",
+      "Farooq Shaikh",
+      "Prateik"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of HALF TICKET?",
+   "answers": [
+      "Deepika Padukone",
+      "Shahid Kapoor",
+      "Kareena Kapoor Khan",
+      "Kishore Kumar"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of HEROINE?",
+   "answers": [
+      "Kareena Kapoor Khan",
+      "Arshad Warsi",
+      "Shahid Kapoor",
+      "Kishore Kumar"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of I AM 24?",
+   "answers": [
+      "Arshad Warsi",
+      "Shahid Kapoor",
+      "Rajat Kapoor",
+      "Kareena Kapoor Khan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of ISHAQZAADE?",
+   "answers": [
+      "Irrfan Khan",
+      "Akshay Kumar",
+      "Rajat Kapoor",
+      "Arjun Kapoor"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of JANNAT-2?",
+   "answers": [
+      "Emraan Hashmi",
+      "Irrfan Khan",
+      "Akshay Kumar",
+      "Arjun Kapoor"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of KAHAANI?",
+   "answers": [
+      "Sushant Singh Rajput",
+      "Akshay Kumar",
+      "Vidya Balan",
+      "Emraan Hashmi"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of LONDON PARIS NEWYORK?",
+   "answers": [
+      "Ali Zafar",
+      "Sushant Singh Rajput",
+      "Deepika Padukone",
+      "Vidya Balan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of OMG OH MY GOD?",
+   "answers": [
+      "Ayushmann Khurrana",
+      "Deepika Padukone",
+      "Ali Zafar",
+      "Paresh Rawal"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of RAAZ 3?",
+   "answers": [
+      "Ayushmann Khurrana",
+      "Emraan Hashmi",
+      "Deepika Padukone",
+      "Paresh Rawal"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of ROWDY RATHORE?",
+   "answers": [
+      "Himansh Kohli",
+      "Deepika Padukone",
+      "Akshay Kumar",
+      "Emraan Hashmi"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of TALAASH?",
+   "answers": [
+      "Himansh Kohli",
+      "Aamir Khan",
+      "Deepika Padukone",
+      "Akshay Kumar"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of VICKY DONOR?",
+   "answers": [
+      "Ayushmann Khurrana",
+      "Nafisa Ali",
+      "Deepika Padukone",
+      "Aamir Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of DABANGG-2?",
+   "answers": [
+      "Nafisa Ali",
+      "Arshad Warsi",
+      "Ayushmann Khurrana",
+      "Salman Khan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of GANGS OF WASSEYPUR?",
+   "answers": [
+      "Manoj Bajpayee",
+      "Aditya Roy Kapoor",
+      "Arshad Warsi",
+      "Salman Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of GANGS OF WASSEYPUR-2?",
+   "answers": [
+      "Aditya Roy Kapoor",
+      "Arshad Warsi",
+      "Irrfan Khan",
+      "Manoj Bajpayee"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of NO ONE KILLED JESSICA?",
+   "answers": [
+      "Prateik",
+      "Irrfan Khan",
+      "Aarav Khanna",
+      "Rani Mukerji"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of RA ONE?",
+   "answers": [
+      "Prateik",
+      "Sushant Singh Rajput",
+      "Rani Mukerji",
+      "Shah Rukh Khan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of READY?",
+   "answers": [
+      "Kareena Kapoor Khan",
+      "Salman Khan",
+      "Sushant Singh Rajput",
+      "Shah Rukh Khan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of SINGHAM?",
+   "answers": [
+      "Ajay Devgn",
+      "R Madhavan",
+      "Rahul Roy",
+      "Ravi Kishan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of AISHA?",
+   "answers": [
+      "R Madhavan",
+      "Rahul Roy",
+      "Ajay Devgn",
+      "Sonam Kapoor"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of DO DOONI CHAAR?",
+   "answers": [
+      "Ravi Kishan",
+      "Rishi Kapoor",
+      "R Madhavan",
+      "Sonam Kapoor"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of ISHQIYA?",
+   "answers": [
+      "Ravi Kishan",
+      "R Madhavan",
+      "Rishi Kapoor",
+      "Naseeruddin Shah"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of LOVE SEX AUR DHOKA?",
+   "answers": [
+      "Ajay Devgn",
+      "Nushrat Bharucha",
+      "Ravi Kishan",
+      "Naushaad Abbas"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of MY NAME IS KHAN?",
+   "answers": [
+      "Sonam Kapoor",
+      "Ravi Kishan",
+      "Shah Rukh Khan",
+      "Nushrat Bharucha"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of TEES MAR KHAN?",
+   "answers": [
+      "Sonam Kapoor",
+      "Ravi Kishan",
+      "Shah Rukh Khan",
+      "Akshay Kumar"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of CROOK?",
+   "answers": [
+      "Emraan Hashmi",
+      "Rishi Kapoor",
+      "Ajay Devgn",
+      "Akshay Kumar"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of PANKH?",
+   "answers": [
+      "Rishi Kapoor",
+      "Ajay Devgn",
+      "Emraan Hashmi",
+      "Bipasha Basu"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of YUVRAAJ?",
+   "answers": [
+      "Naseeruddin Shah",
+      "Salman Khan",
+      "Ajay Devgn",
+      "Bipasha Basu"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of BACHNA AE HASEENO?",
+   "answers": [
+      "Naseeruddin Shah",
+      "Sonam Kapoor",
+      "Salman Khan",
+      "Ranbir Kapoor"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of SANKAT CITY?",
+   "answers": [
+      "Kay Kay Menon",
+      "Naushaad Abbas",
+      "Sonam Kapoor",
+      "Ranbir Kapoor"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of BHOOL BHULAIYA?",
+   "answers": [
+      "Naushaad Abbas",
+      "Akshay Kumar",
+      "Sonam Kapoor",
+      "Kay Kay Menon"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of CHAK DE INDIA?",
+   "answers": [
+      "Nushrat Bharucha",
+      "Rishi Kapoor",
+      "Shah Rukh Khan",
+      "Akshay Kumar"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of MANORAMA SIX FEET UNDER?",
+   "answers": [
+      "Nushrat Bharucha",
+      "Rishi Kapoor",
+      "Shah Rukh Khan",
+      "Abhay Deol"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of OM SHANTI OM?",
+   "answers": [
+      "Shah Rukh Khan",
+      "Shah Rukh Khan",
+      "Rishi Kapoor",
+      "Abhay Deol"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of TRAFFIC SIGNAL?",
+   "answers": [
+      "Kunal Khemu",
+      "Shah Rukh Khan",
+      "Naseeruddin Shah",
+      "Shah Rukh Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of 36 CHINA TOWN?",
+   "answers": [
+      "Akshay Kumar",
+      "Akshaye Khanna",
+      "Naseeruddin Shah",
+      "Kunal Khemu"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of AAP KI KHATIR?",
+   "answers": [
+      "Akshay Kumar",
+      "Naseeruddin Shah",
+      "Akshaye Khanna",
+      "Emraan Hashmi"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of FANAA?",
+   "answers": [
+      "Emraan Hashmi",
+      "Naushaad Abbas",
+      "Akshaye Khanna",
+      "Aamir Khan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of GAFLA?",
+   "answers": [
+      "Somesh Agarwal",
+      "Emraan Hashmi",
+      "Naushaad Abbas",
+      "Aamir Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of JAI JAGANNATH?",
+   "answers": [
+      "Bipasha Basu",
+      "Naushaad Abbas",
+      "Somesh Agarwal",
+      "Sritam Das"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of JIGYAASA?",
+   "answers": [
+      "Bipasha Basu",
+      "Nushrat Bharucha",
+      "Nassar Abdulla",
+      "Sritam Das"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of RANG DE BASANTI?",
+   "answers": [
+      "Salman Khan",
+      "Aamir Khan",
+      "Nushrat Bharucha",
+      "Nassar Abdulla"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of BAS EK PAL?",
+   "answers": [
+      "Salman Khan",
+      "Nushrat Bharucha",
+      "Juhi Chawla",
+      "Aamir Khan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of DHOOM-2?",
+   "answers": [
+      "Ranbir Kapoor",
+      "Shah Rukh Khan",
+      "Hrithik Roshan",
+      "Juhi Chawla"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of KABUL EXPRESS?",
+   "answers": [
+      "Ranbir Kapoor",
+      "Shah Rukh Khan",
+      "Hrithik Roshan",
+      "John Abraham"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of ELAAN?",
+   "answers": [
+      "Kay Kay Menon",
+      "Shah Rukh Khan",
+      "John Abraham",
+      "Arjun Rampal"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of FUN- can be dangerous sometimes?",
+   "answers": [
+      "Siddharth Koirala",
+      "Kay Kay Menon",
+      "Akshay Kumar",
+      "Arjun Rampal"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of JURM?",
+   "answers": [
+      "Arjun Rampal",
+      "Akshay Kumar",
+      "Vinod Khanna",
+      "Siddharth Koirala"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of KHULLAM KHULLA PYAAR KAREN?",
+   "answers": [
+      "Akshay Kumar",
+      "Govinda",
+      "Akshay Kumar",
+      "Vinod Khanna"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of LUCKY NO TIME FOR LOVE?",
+   "answers": [
+      "Shah Rukh Khan",
+      "Salman Khan",
+      "Emraan Hashmi",
+      "Govinda"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of MR YA MISS?",
+   "answers": [
+      "Antara Mali",
+      "Shah Rukh Khan",
+      "Emraan Hashmi",
+      "Salman Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of SARKAR?",
+   "answers": [
+      "Abhay Deol",
+      "Emraan Hashmi",
+      "Antara Mali",
+      "Amitabh Bachchan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of SEHAR?",
+   "answers": [
+      "Arshad Warsi",
+      "Abhay Deol",
+      "Bipasha Basu",
+      "Amitabh Bachchan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of SOCHA NA THA?",
+   "answers": [
+      "Shah Rukh Khan",
+      "Abhay Deol",
+      "Bipasha Basu",
+      "Arshad Warsi"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of ZAMEER?",
+   "answers": [
+      "Shah Rukh Khan",
+      "Bipasha Basu",
+      "Shammi Kapoor",
+      "Abhay Deol"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of NEAL N NIKKI?",
+   "answers": [
+      "Kunal Khemu",
+      "Salman Khan",
+      "Uday Chopra",
+      "Shammi Kapoor"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of SALAAM NAMASTE?",
+   "answers": [
+      "Kunal Khemu",
+      "Salman Khan",
+      "Uday Chopra",
+      "Saif Ali Khan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of FAREB?",
+   "answers": [
+      "Akshaye Khanna",
+      "Faraaz Khan",
+      "Salman Khan",
+      "Saif Ali Khan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of EK SE BADKAR EK?",
+   "answers": [
+      "Ashok Kumar",
+      "Akshaye Khanna",
+      "Ranbir Kapoor",
+      "Faraaz Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of HULCHUL?",
+   "answers": [
+      "Mallika Sherawat",
+      "Akshaye Khanna",
+      "Ranbir Kapoor",
+      "Ashok Kumar"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of KIS KIS KI KISMAT?",
+   "answers": [
+      "Akshaye Khanna",
+      "Mallika Sherawat",
+      "Ranbir Kapoor",
+      "Akshaye Khanna"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of RAKHT?",
+   "answers": [
+      "Aamir Khan",
+      "Sanjay Dutt",
+      "Kay Kay Menon",
+      "Mallika Sherawat"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of VEER ZAARA?",
+   "answers": [
+      "Aamir Khan",
+      "Shah Rukh Khan",
+      "Kay Kay Menon",
+      "Sanjay Dutt"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of RAGHU ROMEO?",
+   "answers": [
+      "Vijay Raaz",
+      "Somesh Agarwal",
+      "Kay Kay Menon",
+      "Shah Rukh Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of DHOOM?",
+   "answers": [
+      "Somesh Agarwal",
+      "Abhishek Bachchan",
+      "Akshay Kumar",
+      "Vijay Raaz"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of MASTI?",
+   "answers": [
+      "Sritam Das",
+      "Akshay Kumar",
+      "Aftab Shivdasani",
+      "Abhishek Bachchan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of ARMAAN?",
+   "answers": [
+      "Amitabh Bachchan",
+      "Sritam Das",
+      "Akshay Kumar",
+      "Aftab Shivdasani"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of CHALTE CHALTE?",
+   "answers": [
+      "Nassar Abdulla",
+      "Shah Rukh Khan",
+      "Aamir Khan",
+      "Amitabh Bachchan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of CHOTA JADUGAR?",
+   "answers": [
+      "Aamir Khan",
+      "Shah Rukh Khan",
+      "Nargis",
+      "Sooraj Balaji"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of PYAASA?",
+   "answers": [
+      "Mala Sinha",
+      "Aamir Khan",
+      "Abhay Deol",
+      "Sooraj Balaji"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of SAATHIYA?",
+   "answers": [
+      "Juhi Chawla",
+      "Vivek Oberoi",
+      "Abhay Deol",
+      "Mala Sinha"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of DIL PE MAT LE YAAR?",
+   "answers": [
+      "Juhi Chawla",
+      "Manoj Bajpayee",
+      "Abhay Deol",
+      "Vivek Oberoi"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of GHAATH?",
+   "answers": [
+      "Hrithik Roshan",
+      "Shah Rukh Khan",
+      "Manoj Bajpayee",
+      "Abhay Deol"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of HERA PHERI?",
+   "answers": [
+      "Hrithik Roshan",
+      "Shah Rukh Khan",
+      "Manoj Bajpayee",
+      "Akshay Kumar"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of ISHQ?",
+   "answers": [
+      "John Abraham",
+      "Aamir Khan",
+      "Shah Rukh Khan",
+      "Akshay Kumar"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of JORU KA GHULAM ?",
+   "answers": [
+      "John Abraham",
+      "Kunal Khemu",
+      "Govinda",
+      "Aamir Khan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of KHAUFF?",
+   "answers": [
+      "Arjun Rampal",
+      "Kunal Khemu",
+      "Govinda",
+      "Sanjay Dutt"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of MOHABBATEIN?",
+   "answers": [
+      "Amitabh Bachchan",
+      "Arjun Rampal",
+      "Kunal Khemu",
+      "Sanjay Dutt"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of INTERNATIONAL KHILADI?",
+   "answers": [
+      "Akshay Kumar",
+      "Siddharth Koirala",
+      "Akshaye Khanna",
+      "Amitabh Bachchan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of TAAL?",
+   "answers": [
+      "Anil Kapoor",
+      "Siddharth Koirala",
+      "Akshaye Khanna",
+      "Akshay Kumar"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of ZULMI?",
+   "answers": [
+      "Vinod Khanna",
+      "Akshay Kumar",
+      "Akshaye Khanna",
+      "Anil Kapoor"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of VAASTAV?",
+   "answers": [
+      "Vinod Khanna",
+      "Akshaye Khanna",
+      "Sanjay Dutt",
+      "Akshay Kumar"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of SHOOL?",
+   "answers": [
+      "Govinda",
+      "Akshaye Khanna",
+      "Sanjay Dutt",
+      "Manoj Bajpayee"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of MANN?",
+   "answers": [
+      "Aamir Khan",
+      "Govinda",
+      "Akshaye Khanna",
+      "Manoj Bajpayee"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of AAKROSH?",
+   "answers": [
+      "Salman Khan",
+      "Aamir Khan",
+      "Ajay Devgn",
+      "Rishi Kapoor"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of BADE DIL WALA?",
+   "answers": [
+      "Salman Khan",
+      "Aamir Khan",
+      "Ajay Devgn",
+      "Rishi Kapoor"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of MOTHER 98?",
+   "answers": [
+      "Antara Mali",
+      "Jeetendra",
+      "Aamir Khan",
+      "Rishi Kapoor"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of PREM AGAN?",
+   "answers": [
+      "Antara Mali",
+      "Somesh Agarwal",
+      "Jeetendra",
+      "Fardeen Khan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of DIL TO PAGAL HAI?",
+   "answers": [
+      "Shah Rukh Khan",
+      "Amitabh Bachchan",
+      "Somesh Agarwal",
+      "Fardeen Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of MAACHIS?",
+   "answers": [
+      "Amitabh Bachchan",
+      "Somesh Agarwal",
+      "Om Puri",
+      "Shah Rukh Khan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of MASOOM?",
+   "answers": [
+      "Arshad Warsi",
+      "Sritam Das",
+      "Om Puri",
+      "Naseeruddin Shah"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of IS RAAT KI SUBAH NAHIN?",
+   "answers": [
+      "Arshad Warsi",
+      "Sritam Das",
+      "Murad Ali",
+      "Naseeruddin Shah"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of DILWALE DULHANIYA LE JAYENGE?",
+   "answers": [
+      "Abhay Deol",
+      "Sritam Das",
+      "Murad Ali",
+      "Shah Rukh Khan"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of ANDAZ APNA APNA?",
+   "answers": [
+      "Abhay Deol",
+      "Nassar Abdulla",
+      "Aamir Khan",
+      "Shah Rukh Khan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of ANARI?",
+   "answers": [
+      "Raj Kapoor",
+      "Shammi Kapoor",
+      "Nassar Abdulla",
+      "Aamir Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of ANJAAM?",
+   "answers": [
+      "Shammi Kapoor",
+      "Madhuri Dixit",
+      "Nassar Abdulla",
+      "Raj Kapoor"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of DARR?",
+   "answers": [
+      "Uday Chopra",
+      "Aamir Khan",
+      "Shah Rukh Khan",
+      "Madhuri Dixit"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of ISI KA NAAM ZINDAGI?",
+   "answers": [
+      "Uday Chopra",
+      "Saif Ali Khan",
+      "Aamir Khan",
+      "Shah Rukh Khan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of KHILADI?",
+   "answers": [
+      "Saif Ali Khan",
+      "Saif Ali Khan",
+      "Akshay Kumar",
+      "Aamir Khan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of YALGAAR?",
+   "answers": [
+      "Saif Ali Khan",
+      "Juhi Chawla",
+      "Feroz Khan",
+      "Akshay Kumar"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of PARAMPARA?",
+   "answers": [
+      "Sunil Dutt",
+      "Faraaz Khan",
+      "Juhi Chawla",
+      "Feroz Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of VIRODHI?",
+   "answers": [
+      "Faraaz Khan",
+      "Prem Chopra",
+      "Juhi Chawla",
+      "Sunil Dutt"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of 100 DAYS?",
+   "answers": [
+      "Ashok Kumar",
+      "Hrithik Roshan",
+      "Jackie Shroff",
+      "Prem Chopra"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of DIL HAI KI MANTA NAHI?",
+   "answers": [
+      "Ashok Kumar",
+      "Hrithik Roshan",
+      "Aamir Khan",
+      "Jackie Shroff"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of FARISHTAY?",
+   "answers": [
+      "Dharmendra",
+      "Akshaye Khanna",
+      "Hrithik Roshan",
+      "Aamir Khan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of AASHIQUI?",
+   "answers": [
+      "Akshaye Khanna",
+      "John Abraham",
+      "Dharmendra",
+      "Rahul Roy"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of DIL?",
+   "answers": [
+      "Aamir Khan",
+      "Mallika Sherawat",
+      "John Abraham",
+      "Adil Amaan"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of SAATHI?",
+   "answers": [
+      "Sanjay Dutt",
+      "Aditya Pancholi",
+      "Arjun Rampal",
+      "Aamir Khan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of SWARG?",
+   "answers": [
+      "Shah Rukh Khan",
+      "Rajesh Khanna",
+      "Arjun Rampal",
+      "Jeetendra"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of AAJ KA ARJUN?",
+   "answers": [
+      "Shah Rukh Khan",
+      "Amitabh Bachchan",
+      "Siddharth Koirala",
+      "Rajesh Khanna"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of DO QAIDI?",
+   "answers": [
+      "Vijay Raaz",
+      "Siddharth Koirala",
+      "Sanjay Dutt",
+      "Amitabh Bachchan"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of BADE GHAR KI BETI?",
+   "answers": [
+      "Abhishek Bachchan",
+      "Vinod Khanna",
+      "Rekha",
+      "Shammi Kapoor"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of MR. INDIA?",
+   "answers": [
+      "R Madhavan",
+      "Rahul Roy",
+      "Anil Kapoor",
+      "Sunil Dutt"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of ILZAAM?",
+   "answers": [
+      "Ravi Kishan",
+      "R Madhavan",
+      "Shashi Kapoor",
+      "Anil Kapoor"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of AAKHREE RAASTA?",
+   "answers": [
+      "Sunil Dutt",
+      "Ravi Kishan",
+      "Amitabh Bachchan",
+      "Govinda"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of JAB JAB PHOOL KIHILE ?",
+   "answers": [
+      "Nanda",
+      "Shashi Kapoor",
+      "Sunil Dutt",
+      "Sunny Deol"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of HAQEEQAT?",
+   "answers": [
+      "Shashi Kapoor",
+      "Balraj Sahni",
+      "Sunil Dutt",
+      "Nanda"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of AJNABEE?",
+   "answers": [
+      "Bobby Deol",
+      "Akshay Kumar",
+      "Anil Kapoor",
+      "Sunil Dutt"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of LAKHON KI BAAT?",
+   "answers": [
+      "Govinda",
+      "Sanjeev Kumar",
+      "Anil Kapoor",
+      "Akshay Kumar"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of NARAM GARAM?",
+   "answers": [
+      "Amitabh Bachchan",
+      "Amol Palekar",
+      "Shashi Kapoor",
+      "Mahipal"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of SILSILA?",
+   "answers": [
+      "Sadashiv Amrapurkar",
+      "Bobby Deol",
+      "Amitabh Bachchan",
+      "Asrani"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of PREM PUJARI?",
+   "answers": [
+      "Sunny Deol",
+      "Bobby Deol",
+      "Amitabh Bachchan",
+      "Dev Anand"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of THODI SI BEWAFAI?",
+   "answers": [
+      "Sunny Deol",
+      "Bobby Deol",
+      "Rajesh Khanna",
+      "Dev Anand"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of AATISH?",
+   "answers": [
+      "Nanda",
+      "Sanjay Dutt",
+      "Govinda",
+      "Rajesh Khanna"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of JAANI DUSHMAN?",
+   "answers": [
+      "Sunil Dutt",
+      "Balraj Sahni",
+      "Govinda",
+      "Sanjeev Kumar"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of THE GREAT GAMBLER?",
+   "answers": [
+      "Balraj Sahni",
+      "Akshay Kumar",
+      "Amitabh Bachchan",
+      "Sunil Dutt"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of DON?",
+   "answers": [
+      "Sunil Dutt",
+      "Akshay Kumar",
+      "Amitabh Bachchan",
+      "Vinod Mehra"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of SHATRANJ KE KHLARI?",
+   "answers": [
+      "Akshay Kumar",
+      "Sadashiv Amrapurkar",
+      "Vinod Mehra",
+      "Sanjeev Kumar"
+   ],
+   "correct": "3"
+},
+ {
+   "question": "Who was a part of AMAR AKBAR ANTHONY?",
+   "answers": [
+      "Vinod Khanna",
+      "Akshay Kumar",
+      "Sadashiv Amrapurkar",
+      "Sanjeev Kumar"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of CHALTE CHALTE?",
+   "answers": [
+      "Sanjeev Kumar",
+      "Sadashiv Amrapurkar",
+      "Shah Rukh Khan",
+      "Vinod Khanna"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of KABHI KABHI?",
+   "answers": [
+      "Sanjeev Kumar",
+      "Amitabh Bachchan",
+      "Sunny Deol",
+      "Shah Rukh Khan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of AMANUSH?",
+   "answers": [
+      "Mahipal",
+      "Uttam Kumar",
+      "Sunny Deol",
+      "Amitabh Bachchan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of ANARI?",
+   "answers": [
+      "Mahipal",
+      "Sunny Deol",
+      "Raj Kapoor",
+      "Uttam Kumar"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of MAUSAM?",
+   "answers": [
+      "Raj Babbar",
+      "Nanda",
+      "Sanjeev Kumar",
+      "Nushrat Bharucha"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of NISHANT?",
+   "answers": [
+      "Girish Karnad",
+      "Raj Babbar",
+      "Balraj Sahni",
+      "Sanjeev Kumar"
+   ],
+   "correct": "0"
+},
+ {
+   "question": "Who was a part of KORA KAGAZ?",
+   "answers": [
+      "Asrani",
+      "Vijay Anand",
+      "Balraj Sahni",
+      "Girish Karnad"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of HARE RAMA HARE KRISHNA?",
+   "answers": [
+      "Asrani",
+      "Zeenat Aman",
+      "Balraj Sahni",
+      "Vijay Anand"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of BLUFF MASTER?",
+   "answers": [
+      "Amitabh Bachchan",
+      "Sunil Dutt",
+      "Abhishek Bachchan",
+      "Zeenat Aman"
+   ],
+   "correct": "2"
+},
+ {
+   "question": "Who was a part of KABULIWALA?",
+   "answers": [
+      "Amitabh Bachchan",
+      "Balraj Sahni",
+      "Sunil Dutt",
+      "Abhishek Bachchan"
+   ],
+   "correct": "1"
+},
+ {
+   "question": "Who was a part of CHAUDHVIN KA CHAND?",
+   "answers": [
+      "Dev Anand",
+      "Sunil Dutt",
+      "Waheeda Rehman",
+      "Balraj Sahni"
+   ],
+   "correct": "2"
+}
+]
+}

@@ -1,0 +1,1065 @@
+{
+    "introduction":"Guess The Director", 
+    "questions":[
+ {
+   "question": "Who is the director of HASEE TOH PHASEE?",
+   "answers": [
+      "Vinil Mathew (as Mathew Vinil)",
+      "Subhash Ghai",
+      "Guru Dutt",
+      "Kunal Kohli"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of DEDH ISHQUIYA?",
+   "answers": [
+      "Subhash Ghai",
+      "Abhishek Chaubey",
+      "Guru Dutt",
+      "Vinil Mathew (as Mathew Vinil)"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of LISTEN AMAYA?",
+   "answers": [
+      "Kunal Kohli",
+      "Subhash Ghai",
+      "Abhishek Chaubey",
+      "Avinash Kumar Singh"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of PHATA POSTER NIKHLA HERO?",
+   "answers": [
+      "Rajkumar Santoshi",
+      "Kunal Kohli",
+      "Subhash Ghai",
+      "Avinash Kumar Singh"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of SPECIAL 26?",
+   "answers": [
+      "Vinil Mathew (as Mathew Vinil)",
+      "Subhash Ghai",
+      "Neeraj Pandey",
+      "Rajkumar Santoshi"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of CHENNAI EXPRESS?",
+   "answers": [
+      "Vinil Mathew (as Mathew Vinil)",
+      "Kunal Kohli",
+      "Neeraj Pandey",
+      "Rohit Shetty"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of YEH JAWANI HAI DEEWANI?",
+   "answers": [
+      "Ayan Mukherjee (as Ayan Mukerji)",
+      "Abhishek Chaubey",
+      "Kunal Kohli",
+      "Rohit Shetty"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of JOLLY LLB?",
+   "answers": [
+      "Abhishek Chaubey",
+      "Subhash Kapoor",
+      "Kunal Kohli",
+      "Ayan Mukherjee (as Ayan Mukerji)"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of D-DAY?",
+   "answers": [
+      "Avinash Kumar Singh",
+      "Vinil Mathew (as Mathew Vinil)",
+      "Subhash Kapoor",
+      "Nikkhil Advani (as Nikhil Advani)"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of SHUDDH DESI ROMANCE?",
+   "answers": [
+      "Avinash Kumar Singh",
+      "Maneesh Sharma",
+      "Vinil Mathew (as Mathew Vinil)",
+      "Nikkhil Advani (as Nikhil Advani)"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of NAUTANKI SAALA?",
+   "answers": [
+      "Rohan Sippy",
+      "Rajkumar Santoshi",
+      "Vinil Mathew (as Mathew Vinil)",
+      "Maneesh Sharma"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of YAARIYAN?",
+   "answers": [
+      "Rajkumar Santoshi",
+      "Divya Khosla Kumar (as Divya Khosla)",
+      "Abhishek Chaubey",
+      "Rohan Sippy"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of YAMLA PAGLA DEEWANA?",
+   "answers": [
+      "Neeraj Pandey",
+      "Abhishek Chaubey",
+      "Samir Karnik",
+      "Divya Khosla Kumar (as Divya Khosla)"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of AASHIQUI 2?",
+   "answers": [
+      "Mohit Suri",
+      "Neeraj Pandey",
+      "Abhishek Chaubey",
+      "Samir Karnik"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of BOL BACHCHAN?",
+   "answers": [
+      "Shakun Batra",
+      "Rohit Shetty",
+      "Avinash Kumar Singh",
+      "Mohit Suri"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of EK DEEWANA THA?",
+   "answers": [
+      "Gautham Menon",
+      "Rohit Shetty",
+      "Avinash Kumar Singh",
+      "Maneesh Sharma"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of HALF TICKET?",
+   "answers": [
+      "Ayan Mukherjee (as Ayan Mukerji)",
+      "Rajkumar Santoshi",
+      "Shakun Batra",
+      "Kalidas"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of HEROINE?",
+   "answers": [
+      "Madhur Bhandarkar",
+      "Subhash Kapoor",
+      "Rajkumar Santoshi",
+      "Kalidas"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of I AM 24?",
+   "answers": [
+      "Subhash Kapoor",
+      "Rajkumar Santoshi",
+      "Saurabh Shukla",
+      "Madhur Bhandarkar"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of ISHAQZAADE?",
+   "answers": [
+      "Nikkhil Advani (as Nikhil Advani)",
+      "Neeraj Pandey",
+      "Saurabh Shukla",
+      "Habib Faisal"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of JANNAT-2?",
+   "answers": [
+      "Kunal Deshmukh",
+      "Nikkhil Advani (as Nikhil Advani)",
+      "Neeraj Pandey",
+      "Habib Faisal"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of KAHAANI?",
+   "answers": [
+      "Maneesh Sharma",
+      "Neeraj Pandey",
+      "Sujoy Ghosh",
+      "Kunal Deshmukh"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of LONDON PARIS NEWYORK?",
+   "answers": [
+      "Anu Menon",
+      "Maneesh Sharma",
+      "Rohit Shetty",
+      "Sujoy Ghosh"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of OMG OH MY GOD?",
+   "answers": [
+      "Rohan Sippy",
+      "Rohit Shetty",
+      "Anu Menon",
+      "Umesh Shukla"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of RAAZ 3?",
+   "answers": [
+      "Rohan Sippy",
+      "Vikram Bhatt",
+      "Rohit Shetty",
+      "Umesh Shukla"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of ROWDY RATHORE?",
+   "answers": [
+      "Divya Khosla Kumar (as Divya Khosla)",
+      "Ayan Mukherjee (as Ayan Mukerji)",
+      "Prabhudheva (as Prabhu Deva)",
+      "Vikram Bhatt"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of TALAASH?",
+   "answers": [
+      "Divya Khosla Kumar (as Divya Khosla)",
+      "Reema Kagti",
+      "Ayan Mukherjee (as Ayan Mukerji)",
+      "Prabhudheva (as Prabhu Deva)"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of VICKY DONOR?",
+   "answers": [
+      "Shoojit Sircar",
+      "Samir Karnik",
+      "Ayan Mukherjee (as Ayan Mukerji)",
+      "Reema Kagti"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of DABANGG-2?",
+   "answers": [
+      "Samir Karnik",
+      "Subhash Kapoor",
+      "Shoojit Sircar",
+      "Arbaaz Khan"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of GANGS OF WASSEYPUR?",
+   "answers": [
+      "Anurag Kashyap",
+      "Mohit Suri",
+      "Subhash Kapoor",
+      "Arbaaz Khan"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of GANGS OF WASSEYPUR-2?",
+   "answers": [
+      "Mohit Suri",
+      "Subhash Kapoor",
+      "Anurag Kashyap",
+      "Anurag Kashyap"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of CHILLER PARTY?",
+   "answers": [
+      "Rohit Shetty",
+      "Vikas Bahl",
+      "Nikkhil Advani (as Nikhil Advani)",
+      "Shoaib Mansoor"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of NO ONE KILLED JESSICA?",
+   "answers": [
+      "Gautham Menon",
+      "Nikkhil Advani (as Nikhil Advani)",
+      "Vikas Bahl",
+      "Raj Kumar Gupta"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of RA ONE?",
+   "answers": [
+      "Gautham Menon",
+      "Maneesh Sharma",
+      "Raj Kumar Gupta",
+      "Anubhav Sinha"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of READY?",
+   "answers": [
+      "Shakun Batra",
+      "Anees Bazmee",
+      "Maneesh Sharma",
+      "Anubhav Sinha"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of SINGHAM?",
+   "answers": [
+      "Rohit Shetty",
+      "Subhash Ghai",
+      "Guru Dutt",
+      "Kunal Kohli"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of AISHA?",
+   "answers": [
+      "Subhash Ghai",
+      "Guru Dutt",
+      "Rohit Shetty",
+      "Rajshree Ojha"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of DABANG?",
+   "answers": [
+      "Abhinav Kashyap (as Abhinav Singh Kashyap)",
+      "Kunal Kohli",
+      "Subhash Ghai",
+      "Rajshree Ojha"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of DO DOONI CHAAR?",
+   "answers": [
+      "Kunal Kohli",
+      "Habib Faisal",
+      "Subhash Ghai",
+      "Abhinav Kashyap (as Abhinav Singh Kashyap)"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of ISHQIYA?",
+   "answers": [
+      "Rohit Shetty",
+      "Subhash Ghai",
+      "Habib Faisal",
+      "Abhishek Chaubey"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of LAMHAA?",
+   "answers": [
+      "Rahul Dholakia",
+      "Rohit Shetty",
+      "Kunal Kohli",
+      "Abhishek Chaubey"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of MY NAME IS KHAN?",
+   "answers": [
+      "Rajshree Ojha",
+      "Kunal Kohli",
+      "Karan Johar",
+      "Dibakar Banerjee"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of TEES MAR KHAN?",
+   "answers": [
+      "Abhinav Kashyap (as Abhinav Singh Kashyap)",
+      "Rohit Shetty",
+      "Karan Johar",
+      "Farah Khan"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of CROOK?",
+   "answers": [
+      "Mohit Suri",
+      "Abhinav Kashyap (as Abhinav Singh Kashyap)",
+      "Rohit Shetty",
+      "Farah Khan"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of YUVRAAJ?",
+   "answers": [
+      "Habib Faisal",
+      "Subhash Ghai",
+      "Rajshree Ojha",
+      "Sudipto Chattopadhyay"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of BACHNA AE HASEENO?",
+   "answers": [
+      "Abhishek Chaubey",
+      "Rajshree Ojha",
+      "Subhash Ghai",
+      "Siddharth Anand"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of SANKAT CITY?",
+   "answers": [
+      "Pankaj Advani",
+      "Abhishek Chaubey",
+      "Rajshree Ojha",
+      "Siddharth Anand"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of BHOOL BHULAIYA?",
+   "answers": [
+      "Rahul Dholakia",
+      "Priyadarshan",
+      "Abhinav Kashyap (as Abhinav Singh Kashyap)",
+      "Pankaj Advani"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of CHAK DE INDIA?",
+   "answers": [
+      "Rahul Dholakia",
+      "Abhinav Kashyap (as Abhinav Singh Kashyap)",
+      "Shimit Amin",
+      "Priyadarshan"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of MANORAMA SIX FEET UNDER?",
+   "answers": [
+      "Dibakar Banerjee",
+      "Abhinav Kashyap (as Abhinav Singh Kashyap)",
+      "Shimit Amin",
+      "Navdeep Singh"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of OM SHANTI OM?",
+   "answers": [
+      "Farah Khan",
+      "Dibakar Banerjee",
+      "Habib Faisal",
+      "Navdeep Singh"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of TRAFFIC SIGNAL?",
+   "answers": [
+      "Madhur Bhandarkar",
+      "Karan Johar",
+      "Habib Faisal",
+      "Farah Khan"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of 36 CHINA TOWN?",
+   "answers": [
+      "Karan Johar",
+      "Abbas Alibhai Burmawalla (as Abbas-Mustan)",
+      "Habib Faisal",
+      "Madhur Bhandarkar"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of AAP KI KHATIR?",
+   "answers": [
+      "Farah Khan",
+      "Abhishek Chaubey",
+      "Dharmesh Darshan",
+      "Abbas Alibhai Burmawalla (as Abbas-Mustan)"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of FANAA?",
+   "answers": [
+      "Farah Khan",
+      "Abhishek Chaubey",
+      "Dharmesh Darshan",
+      "Kunal Kohli"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of GAFLA?",
+   "answers": [
+      "Sameer Hanchate",
+      "Mohit Suri",
+      "Abhishek Chaubey",
+      "Kunal Kohli"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of RANG DE BASANTI?",
+   "answers": [
+      "Subhash Ghai",
+      "Rakeysh Omprakash Mehra (as Rakesh Omprakash Mehra)",
+      "Guru Dutt",
+      "Kunal Kohli"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of DHOOM-2?",
+   "answers": [
+      "Kunal Kohli",
+      "Subhash Ghai",
+      "Sanjay Gadhvi",
+      "Onir"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of KABUL EXPRESS?",
+   "answers": [
+      "Kunal Kohli",
+      "Subhash Ghai",
+      "Sanjay Gadhvi",
+      "Kabir Khan"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of KHULLAM KHULLA PYAAR KAREN?",
+   "answers": [
+      "Onir",
+      "Harmesh Malhotra",
+      "Kunal Kohli",
+      "Mahesh Bhatt"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of SARKAR?",
+   "answers": [
+      "Kabir Khan",
+      "Rakeysh Omprakash Mehra (as Rakesh Omprakash Mehra)",
+      "Antara Mali",
+      "Ram Gopal Varma"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of SEHAR?",
+   "answers": [
+      "Kabeer Kaushik",
+      "Kabir Khan",
+      "Onir",
+      "Ram Gopal Varma"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of SOCHA NA THA?",
+   "answers": [
+      "Vikram Bhatt",
+      "Imtiaz Ali",
+      "Onir",
+      "Kabeer Kaushik"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of SALAAM NAMASTE?",
+   "answers": [
+      "Sanjay Zaveri",
+      "Sanjay Gadhvi",
+      "Arjun Sablok",
+      "Siddharth Anand"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of HULCHUL?",
+   "answers": [
+      "Mahesh Bhatt",
+      "Priyadarshan",
+      "Kabir Khan",
+      "Brij"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of VEER ZAARA?",
+   "answers": [
+      "Radhika Rao",
+      "Yash Chopra",
+      "Vikram Bhatt",
+      "Mahesh Manjrekar (as Mahesh V. Manjrekar)"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of RAGHU ROMEO?",
+   "answers": [
+      "Rajat Kapoor",
+      "Radhika Rao",
+      "Vikram Bhatt",
+      "Yash Chopra"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of DHOOM?",
+   "answers": [
+      "Antara Mali",
+      "Sanjay Gadhvi",
+      "Vikram Bhatt",
+      "Rajat Kapoor"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of MASTI?",
+   "answers": [
+      "Antara Mali",
+      "Sanjay Zaveri",
+      "Indra Kumar",
+      "Sanjay Gadhvi"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of ARMAAN?",
+   "answers": [
+      "Honey Irani",
+      "Ram Gopal Varma",
+      "Sanjay Zaveri",
+      "Indra Kumar"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of CHALTE CHALTE?",
+   "answers": [
+      "Ram Gopal Varma",
+      "Aziz Mirza",
+      "Sanjay Zaveri",
+      "Honey Irani"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of PYAASA?",
+   "answers": [
+      "Guru Dutt",
+      "Imtiaz Ali",
+      "Mahesh Bhatt",
+      "Jose Punnoose (as Jose Punnoos)"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of SAATHIYA?",
+   "answers": [
+      "Imtiaz Ali",
+      "Shaad Ali",
+      "Harmesh Malhotra",
+      "Guru Dutt"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of DIL PE MAT LE YAAR?",
+   "answers": [
+      "Ravi Chopra",
+      "Hansal Mehta",
+      "Harmesh Malhotra",
+      "Shaad Ali"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of GHAATH?",
+   "answers": [
+      "Ravi Chopra",
+      "Harmesh Malhotra",
+      "Akashdeep",
+      "Hansal Mehta"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of ISHQ?",
+   "answers": [
+      "Arjun Sablok",
+      "Indra Kumar",
+      "Radhika Rao",
+      "Priyadarshan"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of TAAL?",
+   "answers": [
+      "Subhash Ghai",
+      "Subhash Ghai",
+      "Guru Dutt",
+      "Umesh Mehra"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of VAASTAV?",
+   "answers": [
+      "Kunal Kohli",
+      "Subhash Ghai",
+      "Mahesh Manjrekar",
+      "Sandesh Kohli (as Kuku Kohli)"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of SHOOL?",
+   "answers": [
+      "Umesh Mehra",
+      "Subhash Ghai",
+      "Mahesh Manjrekar",
+      "Eeshwar Nivas (as E. Nivas)"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of MANN?",
+   "answers": [
+      "Indra Kumar",
+      "Umesh Mehra",
+      "Kunal Kohli",
+      "Eeshwar Nivas (as E. Nivas)"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of AAKROSH?",
+   "answers": [
+      "Subhash Ghai",
+      "Kunal Kohli",
+      "Priyadarshan",
+      "Indra Kumar"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of PREM AGAN?",
+   "answers": [
+      "Sandesh Kohli (as Kuku Kohli)",
+      "Umesh Mehra",
+      "Saawan Kumar Tak (as Saawan Kumar)",
+      "Feroz Khan"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of DIL TO PAGAL HAI?",
+   "answers": [
+      "Yash Chopra",
+      "Mahesh Manjrekar",
+      "Umesh Mehra",
+      "Feroz Khan"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of MAACHIS?",
+   "answers": [
+      "Mahesh Manjrekar",
+      "Subhash Ghai",
+      "Gulzar",
+      "Yash Chopra"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of MASOOM?",
+   "answers": [
+      "Eeshwar Nivas (as E. Nivas)",
+      "Subhash Ghai",
+      "Gulzar",
+      "Shekhar Kapur"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of IS RAAT KI SUBAH NAHIN?",
+   "answers": [
+      "Eeshwar Nivas (as E. Nivas)",
+      "Subhash Ghai",
+      "Sudhir Mishra",
+      "Shekhar Kapur"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of DILWALE DULHANIYA LE JAYENGE?",
+   "answers": [
+      "Indra Kumar",
+      "Sandesh Kohli (as Kuku Kohli)",
+      "Sudhir Mishra",
+      "Aditya Chopra"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of ANDAZ APNA APNA?",
+   "answers": [
+      "Indra Kumar",
+      "Sandesh Kohli (as Kuku Kohli)",
+      "Rajkumar Santoshi",
+      "Aditya Chopra"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of ANJAAM?",
+   "answers": [
+      "Priyadarshan",
+      "Rahul Rawail",
+      "Mahesh Manjrekar",
+      "Hrishikesh Mukherjee"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of DARR?",
+   "answers": [
+      "Bhappi Sonie",
+      "Mahesh Manjrekar",
+      "Yash Chopra",
+      "Rahul Rawail"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of KHILADI?",
+   "answers": [
+      "Saawan Kumar Tak (as Saawan Kumar)",
+      "Eeshwar Nivas (as E. Nivas)",
+      "Abbas Alibhai Burmawalla (as Abbas-Mustan)",
+      "Kalidas"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of YALGAAR?",
+   "answers": [
+      "Saawan Kumar Tak (as Saawan Kumar)",
+      "Eeshwar Nivas (as E. Nivas)",
+      "Feroz Khan",
+      "Abbas Alibhai Burmawalla (as Abbas-Mustan)"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of DIL HAI KI MANTA NAHI?",
+   "answers": [
+      "Yash Chopra",
+      "Indra Kumar",
+      "Mahesh Bhatt",
+      "Partho Ghosh"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of AASHIQUI?",
+   "answers": [
+      "Gulzar",
+      "Priyadarshan",
+      "Anil Sharma",
+      "Mahesh Bhatt"
+   ],
+   "correct": 3
+},
+ {
+   "question": "Who is the director of DIL?",
+   "answers": [
+      "Indra Kumar",
+      "Shekhar Kapur",
+      "Bhappi Sonie",
+      "Talukdars (as Talukdaars)"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of SAATHI?",
+   "answers": [
+      "Sudhir Mishra",
+      "Mahesh Bhatt",
+      "Bhappi Sonie",
+      "Indra Kumar"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of MR. INDIA?",
+   "answers": [
+      "Subhash Ghai",
+      "Guru Dutt",
+      "Shekhar Kapur",
+      "Rama Rao Tatineni (as T. Rama Rao)"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of NARAM GARAM?",
+   "answers": [
+      "Bhagyaraj (as K. Bhagya Raj)",
+      "Hrishikesh Mukherjee",
+      "Shekhar Kapur",
+      "Babubhai Mistri"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of SILSILA?",
+   "answers": [
+      "Bharathiraja (as Bharathi Rajaa)",
+      "Shibu Mitra",
+      "Yash Chopra",
+      "K. Muralimohana Rao (as K. Murali Mohana Rao)"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of AMAR AKBAR ANTHONY?",
+   "answers": [
+      "Manmohan Desai",
+      "Basu Chatterjee (as Basu Chatterji)",
+      "Bharathiraja (as Bharathi Rajaa)",
+      "Satyajit Ray"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of CHALTE CHALTE?",
+   "answers": [
+      "Babubhai Mistri",
+      "Bharathiraja (as Bharathi Rajaa)",
+      "Aziz Mirza",
+      "Manmohan Desai"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of KABHI KABHI?",
+   "answers": [
+      "Babubhai Mistri",
+      "Yash Chopra",
+      "Suraj Prakash",
+      "Aziz Mirza"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of MAUSAM?",
+   "answers": [
+      "Sudesh Issar",
+      "Chetan Anand",
+      "Gulzar",
+      "Feroz Khan"
+   ],
+   "correct": 2
+},
+ {
+   "question": "Who is the director of NISHANT?",
+   "answers": [
+      "Shyam Benegal",
+      "K. Muralimohana Rao (as K. Murali Mohana Rao)",
+      "Chetan Anand",
+      "Gulzar"
+   ],
+   "correct": 0
+},
+ {
+   "question": "Who is the director of HARE RAMA HARE KRISHNA?",
+   "answers": [
+      "Yash Chopra",
+      "Dev Anand",
+      "Yash Chopra",
+      "Anil Ganguly"
+   ],
+   "correct": 1
+},
+ {
+   "question": "Who is the director of BLUFF MASTER?",
+   "answers": [
+      "Yash Chopra",
+      "Yash Chopra",
+      "Rohan Sippy",
+      "Dev Anand"
+   ],
+   "correct": 2
+}
+]
+}

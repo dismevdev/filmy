@@ -1,0 +1,469 @@
+{
+	"introduction": "Guess The Year",
+	"questions": [{
+			"question": "Which year was HASEE TOH PHASEE released?",
+			"correct": 0,
+			"answers": [2014, 2001, 2003, 1998]
+		}, {
+			"question": "Which year was DEDH ISHQUIYA released?",
+			"correct": 1,
+			"answers": [2001, 2014, 2003, 2015]
+		}, {
+			"question": "Which year was LISTEN AMAYA released?",
+			"correct": 3,
+			"answers": [1998, 2001, 2014, 2013]
+		}, {
+			"question": "Which year was PHATA POSTER NIKHLA HERO released?",
+			"correct": 0,
+			"answers": [2013, 1998, 2001, 2016]
+		}, {
+			"question": "Which year was SPECIAL 26 released?",
+			"correct": 2,
+			"answers": [2014, 2001, 2013, 2015]
+		}, {
+			"question": "Which year was CHENNAI EXPRESS released?",
+			"correct": 3,
+			"answers": [2014, 1998, 2012, 2013]
+		}, {
+			"question": "Which year was YEH JAWANI HAI DEEWANI released?",
+			"correct": 0,
+			"answers": [2013, 2014, 1998, 2016]
+		}, {
+			"question": "Which year was JOLLY LLB released?",
+			"correct": 1,
+			"answers": [2014, 2013, 1998, 2016]
+		}, {
+			"question": "Which year was D-DAY released?",
+			"correct": 3,
+			"answers": [2012, 2014, 2011, 2013]
+		}, {
+			"question": "Which year was SHUDDH DESI ROMANCE released?",
+			"correct": 1,
+			"answers": [2012, 2013, 2014, 2010]
+		}, {
+			"question": "Which year was NAUTANKI SAALA released?",
+			"correct": 0,
+			"answers": [2013, 2011, 2014, 2009]
+		}, {
+			"question": "Which year was YAARIYAN released?",
+			"correct": 1,
+			"answers": [2012, 2014, 2011, 2013]
+		}, {
+			"question": "Which year was YAMLA PAGLA DEEWANA released?",
+			"correct": 2,
+			"answers": [2013, 2012, 2011, 2014]
+		}, {
+			"question": "Which year was AASHIQUI 2 released?",
+			"correct": 0,
+			"answers": [2013, 2009, 2014, 2011]
+		}, {
+			"question": "Which year was BOL BACHCHAN released?",
+			"correct": 1,
+			"answers": [2012, 2012, 2010, 2013]
+		}, {
+			"question": "Which year was EK DEEWANA THA released?",
+			"correct": 0,
+			"answers": [2012, 2011, 2013, 2008]
+		}, {
+			"question": "Which year was EK MAIN AUR EKK TU released?",
+			"correct": 1,
+			"answers": [2011, 2012, 2013, 2008]
+		}, {
+			"question": "Which year was HALF TICKET released?",
+			"correct": 3,
+			"answers": [2011, 2013, 2012, 1962]
+		}, {
+			"question": "Which year was HEROINE released?",
+			"correct": 0,
+			"answers": [2012, 2011, 2013, 1962]
+		}, {
+			"question": "Which year was I AM 24 released?",
+			"correct": 2,
+			"answers": [2011, 2013, 2010, 2012]
+		}, {
+			"question": "Which year was ISHAQZAADE released?",
+			"correct": 3,
+			"answers": [2011, 2013, 2010, 2012]
+		}, {
+			"question": "Which year was JANNAT-2 released?",
+			"correct": 0,
+			"answers": [2012, 2011, 2013, 2008]
+		}, {
+			"question": "Which year was KAHAANI released?",
+			"correct": 2,
+			"answers": [2011, 2013, 2012, 2008]
+		}, {
+			"question": "Which year was LONDON PARIS NEWYORK released?",
+			"correct": 0,
+			"answers": [2012, 2011, 2013, 2008]
+		}, {
+			"question": "Which year was OMG OH MY GOD released?",
+			"correct": 3,
+			"answers": [2011, 2013, 2009, 2012]
+		}, {
+			"question": "Which year was RAAZ 3 released?",
+			"correct": 1,
+			"answers": [2011, 2012, 2013, 2008]
+		}, {
+			"question": "Which year was ROWDY RATHORE released?",
+			"correct": 2,
+			"answers": [2014, 2013, 2012, 2008]
+		}, {
+			"question": "Which year was TALAASH released?",
+			"correct": 1,
+			"answers": [2014, 2012, 2013, 2008]
+		}, {
+			"question": "Which year was VICKY DONOR released?",
+			"correct": 0,
+			"answers": [2012, 2011, 2013, 2008]
+		}, {
+			"question": "Which year was DABANGG-2 released?",
+			"correct": 3,
+			"answers": [2011, 2013, 2009, 2012]
+		}, {
+			"question": "Which year was GANGS OF WASSEYPUR released?",
+			"correct": 0,
+			"answers": [2012, 2011, 2013, 2008]
+		}, {
+			"question": "Which year was GANGS OF WASSEYPUR-2 released?",
+			"correct": 3,
+			"answers": [2011, 2013, 2009, 2012]
+		},  {
+			"question": "Which year was CHILLER PARTY released?",
+			"correct": 1,
+			"answers": [2012, 2011, 2013, 2007]
+		}, {
+			"question": "Which year was NO ONE KILLED JESSICA released?",
+			"correct": 3,
+			"answers": [2012, 2013, 2008, 2011]
+		}, {
+			"question": "Which year was RA ONE released?",
+			"correct": 3,
+			"answers": [2012, 2013, 2008, 2011]
+		}, {
+			"question": "Which year was READY released?",
+			"correct": 1,
+			"answers": [2012, 2011, 2013, 2007]
+		}, {
+			"question": "Which year was AISHA released?",
+			"correct": 3,
+			"answers": [2001, 2003, 1998, 2010]
+		}, {
+			"question": "Which year was DO DOONI CHAAR released?",
+			"correct": 1,
+			"answers": [2001, 2010, 2003, 2006]
+		}, {
+			"question": "Which year was ISHQIYA released?",
+			"correct": 3,
+			"answers": [1998, 2001, 2007, 2010]
+		},  {
+			"question": "Which year was LOVE SEX AUR DHOKA released?",
+			"correct": 1,
+			"answers": [2009, 2010, 2001, 2006]
+		}, {
+			"question": "Which year was MY NAME IS KHAN released?",
+			"correct": 2,
+			"answers": [2009, 1998, 2010, 2006]
+		}, {
+			"question": "Which year was TEES MAR KHAN released?",
+			"correct": 3,
+			"answers": [2009, 1998, 2007, 2010]
+		}, {
+			"question": "Which year was CROOK released?",
+			"correct": 0,
+			"answers": [2010, 2008, 1998, 2006]
+		}, {
+			"question": "Which year was PANKH released?",
+			"correct": 3,
+			"answers": [2009, 2008, 2007, 2010]
+		}, {
+			"question": "Which year was YUVRAAJ released?",
+			"correct": 1,
+			"answers": [2009, 2008, 2007, 2010]
+		}, {
+			"question": "Which year was BACHNA AE HASEENO released?",
+			"correct": 3,
+			"answers": [2009, 2010, 2005, 2008]
+		},  {
+			"question": "Which year was BHOOL BHULAIYA released?",
+			"correct": 1,
+			"answers": [2008, 2007, 2010, 2009]
+		}, {
+			"question": "Which year was CHAK DE INDIA released?",
+			"correct": 2,
+			"answers": [2009, 2010, 2007, 2003]
+		}, {
+			"question": "Which year was OM SHANTI OM released?",
+			"correct": 0,
+			"answers": [2007, 2008, 2010, 2003]
+		}, {
+			"question": "Which year was TRAFFIC SIGNAL released?",
+			"correct": 0,
+			"answers": [2007, 2008, 2010, 2003]
+		}, {
+			"question": "Which year was 36 CHINA TOWN released?",
+			"correct": 1,
+			"answers": [2009, 2006, 2010, 2007]
+		}, {
+			"question": "Which year was AAP KI KHATIR released?",
+			"correct": 2,
+			"answers": [2009, 2010, 2006, 2002]
+		}, {
+			"question": "Which year was AKSAR released?",
+			"correct": 3,
+			"answers": [2009, 2010, 2003, 2006]
+		}, {
+			"question": "Which year was FANAA released?",
+			"correct": 3,
+			"answers": [2009, 2010, 2003, 2006]
+		}, {
+			"question": "Which year was RANG DE BASANTI released?",
+			"correct": 1,
+			"answers": [2008, 2006, 2010, 2002]
+		}, {
+			"question": "Which year was BAS EK PAL released?",
+			"correct": 2,
+			"answers": [2008, 2010, 2006, 2002]
+		}, {
+			"question": "Which year was DHOOM-2 released?",
+			"correct": 2,
+			"answers": [2009, 2010, 2006, 2002]
+		}, {
+			"question": "Which year was KABUL EXPRESS released?",
+			"correct": 3,
+			"answers": [2009, 2010, 2003, 2006]
+		}, {
+			"question": "Which year was LUCKY NO TIME FOR LOVE released?",
+			"correct": 1,
+			"answers": [2007, 2005, 2010, 2001]
+		}, {
+			"question": "Which year was MR YA MISS released?",
+			"correct": 0,
+			"answers": [2005, 2007, 2010, 2001]
+		}, {
+			"question": "Which year was SARKAR released?",
+			"correct": 3,
+			"answers": [2007, 2010, 2002, 2005]
+		}, {
+			"question": "Which year was SEHAR released?",
+			"correct": 0,
+			"answers": [2005, 2007, 2008, 2001]
+		}, {
+			"question": "Which year was SOCHA NA THA released?",
+			"correct": 1,
+			"answers": [2007, 2005, 2008, 2001]
+		}, {
+			"question": "Which year was ZAMEER released?",
+			"correct": 2,
+			"answers": [2007, 2008, 1975, 2005]
+		}, {
+			"question": "Which year was NEAL N NIKKI released?",
+			"correct": 2,
+			"answers": [2006, 2008, 2005, 1975]
+		}, {
+			"question": "Which year was SALAAM NAMASTE released?",
+			"correct": 3,
+			"answers": [2006, 2008, 2002, 2005]
+		}, {
+			"question": "Which year was VEER ZAARA released?",
+			"correct": 1,
+			"answers": [2006, 2004, 2007, 2000]
+		},  {
+			"question": "Which year was DHOOM released?",
+			"correct": 1,
+			"answers": [2006, 2004, 2007, 2003]
+		}, {
+			"question": "Which year was MASTI released?",
+			"correct": 2,
+			"answers": [2006, 2007, 2004, 2000]
+		}, {
+			"question": "Which year was ARMAAN released?",
+			"correct": 0,
+			"answers": [2003, 2005, 2007, 2004]
+		}, {
+			"question": "Which year was CHALTE CHALTE released?",
+			"correct": 1,
+			"answers": [2006, 2003, 2007, 1999]
+		}, {
+			"question": "Which year was CHOTA JADUGAR released?",
+			"correct": 3,
+			"answers": [2006, 2007, 1956, 2003]
+		}, {
+			"question": "Which year was PYAASA released?",
+			"correct": 0,
+			"answers": [1957, 1965, 2007, 2003]
+		}, {
+			"question": "Which year was SAATHIYA released?",
+			"correct": 1,
+			"answers": [2006, 2002, 2007, 1957]
+		}, {
+			"question": "Which year was DIL PE MAT LE YAAR released?",
+			"correct": 1,
+			"answers": [2006, 2000, 2007, 2002]
+		}, {
+			"question": "Which year was GHAATH released?",
+			"correct": 2,
+			"answers": [2006, 2007, 2000, 1996]
+		}, {
+			"question": "Which year was HERA PHERI released?",
+			"correct": 3,
+			"answers": [2006, 2007, 1997, 2000]
+		}, {
+			"question": "Which year was ISHQ released?",
+			"correct": 1,
+			"answers": [2006, 1997, 2007, 2000]
+		}, {
+			"question": "Which year was JORU KA GHULAM  released?",
+			"correct": 2,
+			"answers": [2005, 2006, 2000, 1997]
+		}, {
+			"question": "Which year was MOHABBATEIN released?",
+			"correct": 0,
+			"answers": [2000, 2005, 2006, 1996]
+		}, {
+			"question": "Which year was TAAL released?",
+			"correct": 0,
+			"answers": [1999, 2001, 2003, 1995]
+		},  {
+			"question": "Which year was VAASTAV released?",
+			"correct": 2,
+			"answers": [1998, 2001, 1999, 1995]
+		}, {
+			"question": "Which year was SHOOL released?",
+			"correct": 3,
+			"answers": [1998, 2001, 1996, 1999]
+		}, {
+			"question": "Which year was MANN released?",
+			"correct": 0,
+			"answers": [1999, 1997, 1998, 1995]
+		}, {
+			"question": "Which year was AAKROSH released?",
+			"correct": 2,
+			"answers": [1998, 1996, 2010, 1999]
+		}, {
+			"question": "Which year was MOTHER 98 released?",
+			"correct": 1,
+			"answers": [1998, 1999, 1996, 1983]
+		}, {
+			"question": "Which year was PREM AGAN released?",
+			"correct": 3,
+			"answers": [1997, 1997, 1999, 1998]
+		}, {
+			"question": "Which year was DIL TO PAGAL HAI released?",
+			"correct": 0,
+			"answers": [1997, 1997, 1999, 1998]
+		}, {
+			"question": "Which year was MAACHIS released?",
+			"correct": 2,
+			"answers": [1998, 1999, 1996, 1997]
+		}, {
+			"question": "Which year was MASOOM released?",
+			"correct": 3,
+			"answers": [1998, 1999, 1996, 1983]
+		}, {
+			"question": "Which year was IS RAAT KI SUBAH NAHIN released?",
+			"correct": 2,
+			"answers": [1998, 1999, 1996, 1983]
+		}, {
+			"question": "Which year was DILWALE DULHANIYA LE JAYENGE released?",
+			"correct": 3,
+			"answers": [1998, 1999, 1996, 1995]
+		}, {
+			"question": "Which year was ANDAZ APNA APNA released?",
+			"correct": 2,
+			"answers": [1998, 1999, 1994, 1995]
+		},  {
+			"question": "Which year was ANJAAM released?",
+			"correct": 1,
+			"answers": [2010, 1994, 1999, 1959]
+		}, {
+			"question": "Which year was DARR released?",
+			"correct": 2,
+			"answers": [1983, 1999, 1993, 1994]
+		},  {
+			"question": "Which year was KHILADI released?",
+			"correct": 2,
+			"answers": [1998, 1999, 1992, 1988]
+		}, {
+			"question": "Which year was YALGAAR released?",
+			"correct": 2,
+			"answers": [1998, 1999, 1992, 1988]
+		}, {
+			"question": "Which year was PARAMPARA released?",
+			"correct": 0,
+			"answers": [1993, 1998, 1999, 1992]
+		},  {
+			"question": "Which year was 100 DAYS released?",
+			"correct": 2,
+			"answers": [1997, 1999, 1991, 1992]
+		}, {
+			"question": "Which year was DIL HAI KI MANTA NAHI released?",
+			"correct": 2,
+			"answers": [1997, 1999, 1991, 1987]
+		}, {
+			"question": "Which year was AASHIQUI released?",
+			"correct": 3,
+			"answers": [1996, 2010, 1991, 1990]
+		}, {
+			"question": "Which year was APMAAN KI AAG released?",
+			"correct": 2,
+			"answers": [1983, 2010, 1990, 1986]
+		}, {
+			"question": "Which year was DIL released?",
+			"correct": 0,
+			"answers": [1990, 1981, 1983, 1986]
+		}, {
+			"question": "Which year was SAATHI released?",
+			"correct": 1,
+			"answers": [1996, 1991, 1983, 1990]
+		},{
+			"question": "Which year was MR. INDIA released?",
+			"correct": 2,
+			"answers": [2001, 2003, 1987, 1983]
+		},  {
+			"question": "Which year was AJNABEE released?",
+			"correct": 1,
+			"answers": [1986, 2001, 1987, 1985]
+		}, {
+			"question": "Which year was SILSILA released?",
+			"correct": 2,
+			"answers": [1985, 1986, 1981, 1989]
+		},  {
+			"question": "Which year was AATISH released?",
+			"correct": 1,
+			"answers": [1965, 1994, 1986, 1980]
+		}, {
+			"question": "Which year was AMAR AKBAR ANTHONY released?",
+			"correct": 0,
+			"answers": [1977, 1984, 1986, 1973]
+		}, {
+			"question": "Which year was CHALTE CHALTE released?",
+			"correct": 2,
+			"answers": [1984, 1986, 2003, 1977]
+		}, {
+			"question": "Which year was KABHI KABHI released?",
+			"correct": 1,
+			"answers": [1961, 1976, 1986, 2003]
+		},  {
+			"question": "Which year was MAUSAM released?",
+			"correct": 2,
+			"answers": [1981, 1964, 1975, 1971]
+		}, {
+			"question": "Which year was NISHANT released?",
+			"correct": 0,
+			"answers": [1975, 1981, 1964, 1971]
+		}, {
+			"question": "Which year was HARE RAMA HARE KRISHNA released?",
+			"correct": 1,
+			"answers": [1989, 1971, 1985, 1974]
+		}, {
+			"question": "Which year was BLUFF MASTER released?",
+			"correct": 2,
+			"answers": [1981, 1985, 2005, 1971]
+		}, {
+			"question": "Which year was KABULIWALA released?",
+			"correct": 1,
+			"answers": [1981, 1961, 1985, 2005]
+		}
+	]
+}
